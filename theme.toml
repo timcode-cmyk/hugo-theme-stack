@@ -11,7 +11,6 @@ demosite    = "https://demo.stack.jimmycai.com"
 tags = ["blog", "responsive", "clean", "light", "dark", "personal"]
 
 features = [
-    "disqus",
     "photoswipe",
     "opengraph",
     "widgets",
